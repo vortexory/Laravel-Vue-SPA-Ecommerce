@@ -23,7 +23,7 @@ SPA Laravel E-commerce project. E-commerce platform with REST Api, Multiple Auth
 Clone the project:
 
 ```bash
-  git clone https://github.com/DevAmirul/Laravel-Vue-SPA-Ecommerce.git
+  git clone https://github.com/vortexory/Laravel-Vue-SPA-Ecommerce.git
 ```
 
 Go to the project frontend directory:
@@ -112,4 +112,4 @@ Open: http://127.0.0.1:8000
 
 ## Authors
 
-- [@devamirul](https://www.github.com/devamirul)
+- [@vortexory](https://www.github.com/vortexory)
